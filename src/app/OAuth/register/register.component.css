@@ -1,0 +1,58 @@
+.header{
+    background-color: black;
+}
+
+.body{
+    padding-top: 5%;
+}
+
+.headerText{
+    color: white;
+    text-decoration: none;
+}
+
+.login-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .login-full-width {
+    width: 100%;
+    padding-top: 40px;
+  }
+
+.example-button-row button,
+.example-button-row a {
+  margin-right: 40px;
+  background-color: black;
+ 
+}
+
+.example-disabled {
+  display: inline-block;
+}
+
+.form-check-input{
+background-color: black;
+}
+
+.SignInButton{
+    background-color: black;
+}
+
+.RegistrationButton{
+    background-color: black;
+}
+
+.signUpWith{
+    padding-top: 40px;
+}
+
+.dropdown{
+  width: 30%;
+}
+
+.Sbutton{
+    padding-top: 10%;
+}
