@@ -1,0 +1,14 @@
+warning: in the working copy of 'src/app/OAuth/register/register.component.html', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/src/app/OAuth/register/register.component.html b/src/app/OAuth/register/register.component.html[m
+[1mindex 76d8ac8..5001ea8 100644[m
+[1m--- a/src/app/OAuth/register/register.component.html[m
+[1m+++ b/src/app/OAuth/register/register.component.html[m
+[36m@@ -5,7 +5,7 @@[m
+       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">[m
+         <span class="navbar-toggler-icon"></span>[m
+       </button>[m
+[31m-[m
+[32m+[m[32msssssssssssssssssssssssss[m
+       <div class="collapse navbar-collapse" id="navbarColor01">[m
+         <ul class="navbar-nav me-auto">[m
+           <li class="nav-item">[m
